@@ -1,0 +1,46 @@
+/* common shared styles */
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+.ummah{
+    color:#FD6E0A
+}
+.suna{
+    color:#f07604
+}
+/* nav related styles */
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav {
+    display: flex;
+}
+.hululu{
+    color: #181818;
+font-size: 45px;
+font-weight: 750;
+
+}
+nav > ul{
+    display: flex;
+    align-items: center;
+}
+nav li {
+    list-style: none;
+    margin-right: 50px;
+}
+nav a{
+    text-decoration:none;
+    color:#1f1e1e
+}
+.ok{
+    border-radius: 5px;
+    background-color:  rgb(255, 145, 0);
+    border:0;
+    color: white;
+    font-size: 20px;
+    font-weight:700;
+    padding: 15px; 35px;
+}
