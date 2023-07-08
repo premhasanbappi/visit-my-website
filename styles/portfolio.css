@@ -13,6 +13,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    
 }
 nav {
     display: flex;
@@ -35,6 +36,7 @@ nav a{
     text-decoration:none;
     color:#1f1e1e
 }
+/* button related styles */
 .ok{
     border-radius: 5px;
     background-color:  rgb(255, 145, 0);
@@ -43,4 +45,17 @@ nav a{
     font-size: 20px;
     font-weight:700;
     padding: 15px; 35px;
+}
+
+/* header related styles */
+.header{
+    background-color:#FFF8F3;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items:center;
+}
+.banner .profile-picture{
+    width: 500px;
 }
