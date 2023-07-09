@@ -9,6 +9,7 @@ body {
     color:#f07604
 }
 /* nav related styles */
+
 nav{
     display: flex;
     justify-content: space-between;
@@ -54,8 +55,9 @@ nav a{
 .banner{
     padding: 30px 30px 30px 150px;
     display: flex;
-    align-items:center;
+    align-items: center;
+   
 }
-.banner .profile-picture{
+.banner .profile-pic{
     width: 500px;
 }
