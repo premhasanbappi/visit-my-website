@@ -116,3 +116,25 @@ main{
 .about-info{
     text-align: center;
 }
+/* skills related styles */
+#what-i-do-description{
+    padding: 30px 150px;
+    display: flex;
+width: 909px;
+flex-direction: column;
+flex-shrink: 0;
+color:  #584e4e;
+text-align: center;
+
+font-size: 18px;
+
+line-height: 30px;
+}
+/* skill relaqted like,node js and more */
+.skills-container{
+    display: flex;
+}
+.skill{
+    padding: 30px;
+    gap: 24px;
+}
